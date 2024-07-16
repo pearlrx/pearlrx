@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dmitry:grinning:</h1>
+<h1 align="center">Hi there, I'm Dmitry :grinning: </h1>
 <h3 align="center">Beckend coder, Gopher and good Person)</h3>
 
 ![Pearl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pearlrx&show_icons=true&theme=radical)
