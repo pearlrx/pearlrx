@@ -16,6 +16,6 @@
 ### ✨ About Me
 
 - 🔥 I code on **Vue.js + Go** (Fullstack)
-- 🐹 Main language & mascot: **Go (Gopher)**
+- 🐹 Main language: **Go**
 - 🚀 Building scalable back-end and interactive UI
 - 🤝 Open for collaboration and interesting projects
