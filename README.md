@@ -19,5 +19,3 @@
 - 🐹 Main language & mascot: **Go (Gopher)**
 - 🚀 Building scalable back-end and interactive UI
 - 🤝 Open for collaboration and interesting projects
-
----
