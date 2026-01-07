@@ -28,15 +28,3 @@
 - ⚡ Fun fact: *Crabs are underrated developers 🦀*
 
 ---
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| API Server | Fast microservice | Go, Gin/Fiber |
-| Web App | Interactive frontend | Vue 3, Pinia, Vite |
-| Fullstack Platform | SPA + backend | Vue.js + Go |
-
----
-
-⭐ *Feel free to explore my repositories and leave a star if something helps you!*
