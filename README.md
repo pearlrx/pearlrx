@@ -13,15 +13,6 @@
   <img src="https://img.shields.io/badge/Fullstack-Vue%20%2B%20Go-2F3136?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pearlrx/pearlrx/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pearlrx&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlrx&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
-
 ### ✨ About Me
 
 - 🔥 I code on **Vue.js + Go** (Fullstack)
