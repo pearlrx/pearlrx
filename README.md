@@ -11,9 +11,9 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Vue.js-?logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-Go-?logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fullstack-Vue+Go-?logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fullstack-Vue%20%2B%20Go-2F3136?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
