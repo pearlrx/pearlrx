@@ -15,16 +15,13 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pearlrx&show_icons=true&theme=tokyonight"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pearlrx&layout=compact&theme=tokyonight"
-    height="165"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pearlrx&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlrx&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pearlrx&theme=tokyonight" />
+</p>
 
 ### ✨ About Me
 
