@@ -16,8 +16,8 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pearlrx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlrx&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pearlrx&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlrx&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ### ✨ About Me
