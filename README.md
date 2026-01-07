@@ -15,8 +15,8 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pearlrx&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlrx&layout=compact&theme=tokyonight" />
 </p>
 
 ### ✨ About Me
@@ -25,6 +25,5 @@
 - 🐹 Main language & mascot: **Go (Gopher)**
 - 🚀 Building scalable back-end and interactive UI
 - 🤝 Open for collaboration and interesting projects
-- ⚡ Fun fact: *Crabs are underrated developers 🦀*
 
 ---
